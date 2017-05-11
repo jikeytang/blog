@@ -1,0 +1,1 @@
+[SASS](http://sass-lang.com/) 是Syntactically Awesome Stylesheete Sass的缩写，是由Hampton Catlin开发的。sass不是新语言，是一种css预处理器，预处理的意思是，他的最终结果是css，并不是新的东西。他的作用只有一个：使css具备可被编程的特性，比如具有变量，流程控制，计算等。sass一般有两种语法，最新的为扩展名为“.scss”的scss，另外一种是ruby风格的".sass"。现在建议直接写scss，scss兼容css。sass对排版有着非常严格的要求，而且没有大括号，没有分号，只有缩进。
